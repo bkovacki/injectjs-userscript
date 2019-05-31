@@ -1,0 +1,18 @@
+{
+  "name": "injectjs-userscript",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/inject.js",
+  "scripts": {
+    "build": "webpack --env --mode=production",
+    "start": "webpack-dev-server --env.NODE_ENV=development"
+  },
+  "author": "Berislav Kovacki",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1",
+    "webpack-userscript": "^2.3.0"
+  }
+}
