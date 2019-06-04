@@ -1,0 +1,11 @@
+title: InjectJS UserScript
+description: >-
+  InjectJS is userscript for Tampermonkey that allows user to inject
+  custom JavaScript libraries and add JavaScript code to any web page.
+github_username:  bkovacki
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-time-machine
+plugins:
+  - jekyll-feed
