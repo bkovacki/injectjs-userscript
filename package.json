@@ -10,9 +10,9 @@
   "author": "Berislav Kovacki",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^4.32.2",
-    "webpack-cli": "^3.3.2",
-    "webpack-dev-server": "^3.4.1",
-    "webpack-userscript": "^2.3.0"
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-userscript": "^2.3.1"
   }
 }
